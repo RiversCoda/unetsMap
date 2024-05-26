@@ -1,0 +1,13 @@
+*.zip
+*.tgz
+*.rar
+*.tif
+*.tfw
+*.jpg
+*.laz
+*.sh*
+.ini
+*~
+*.pt
+*.csv
+*.pyc
